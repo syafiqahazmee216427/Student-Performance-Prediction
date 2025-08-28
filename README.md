@@ -19,3 +19,6 @@ Models are evaluated using R² Score, MSE, and RMSE.
 
 ## Here is the link to our website:
 https://sites.google.com/student.upm.edu.my/student-performance-prediction/introduction
+
+## Here is the google colab sharing link:
+https://colab.research.google.com/drive/1bswOoR7OhPJSTnZIaZXOE2yEPQV-3Jfx?usp=sharing
